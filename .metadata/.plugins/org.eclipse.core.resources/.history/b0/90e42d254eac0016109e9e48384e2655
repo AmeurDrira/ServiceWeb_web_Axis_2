@@ -1,0 +1,9 @@
+package tn.iit.interfaces;
+
+public interface Conversion {
+	float convert(String deviseOut, float money);
+
+	String[] listDevise();
+	Banque createBanque(String name,String address);
+
+}

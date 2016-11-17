@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><wsdl:definitions xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:ns="http://implmentation.iit.tn" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ax21="http://models.iit.tn/xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:ns1="http://org.apache.axis2/xsd" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" targetNamespace="http://implmentation.iit.tn">
+    <wsdl:documentation>
+		Please Type your service description here
+	</wsdl:documentation>
+    <wsdl:types>
+        <xs:schema xmlns:ax22="http://models.iit.tn/xsd" attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://implmentation.iit.tn">
+            <xs:import namespace="http://models.iit.tn/xsd"/>
+            <xs:element name="listDevise">
+                <xs:complexType>
+                    <xs:sequence/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="listDeviseResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="return" nillable="true" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="createBanque">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="name" nillable="true" type="xs:string"/>
+                        <xs:element minOccurs="0" name="address" nillable="true" type="xs:string"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="createBanqueResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" nillable="true" type="ax22:Banque"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="listBanque">
+                <xs:complexType>
+                    <xs:sequence/>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="listBanqueResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="return" nillable="true" type="ax22:Banque"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="updateBanque">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="banque" nillable="true" type="ax22:Banque"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="testBanque">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element maxOccurs="unbounded" minOccurs="0" name="tabBanque" nillable="true" type="ax22:Banque"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="convert">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="deviseOut" nillable="true" type="xs:string"/>
+                        <xs:element minOccurs="0" name="money" type="xs:float"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="convertResponse">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element minOccurs="0" name="return" type="xs:float"/>
+                    </xs:sequence>
+                </xs:complexType>
+            </xs:element>
+        </xs:schema>
+        <xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://models.iit.tn/xsd">
+            <xs:complexType name="Banque">
+                <xs:sequence>
+                    <xs:element minOccurs="0" name="address" nillable="true" type="xs:string"/>
+                    <xs:element minOccurs="0" name="name" nillable="true" type="xs:string"/>
+                </xs:sequence>
+            </xs:complexType>
+        </xs:schema>
+    </wsdl:types>
+    <wsdl:message name="listBanqueRequest">
+        <wsdl:part name="parameters" element="ns:listBanque"/>
+    </wsdl:message>
+    <wsdl:message name="listBanqueResponse">
+        <wsdl:part name="parameters" element="ns:listBanqueResponse"/>
+    </wsdl:message>
+    <wsdl:message name="listDeviseRequest">
+        <wsdl:part name="parameters" element="ns:listDevise"/>
+    </wsdl:message>
+    <wsdl:message name="listDeviseResponse">
+        <wsdl:part name="parameters" element="ns:listDeviseResponse"/>
+    </wsdl:message>
+    <wsdl:message name="createBanqueRequest">
+        <wsdl:part name="parameters" element="ns:createBanque"/>
+    </wsdl:message>
+    <wsdl:message name="createBanqueResponse">
+        <wsdl:part name="parameters" element="ns:createBanqueResponse"/>
+    </wsdl:message>
+    <wsdl:message name="convertRequest">
+        <wsdl:part name="parameters" element="ns:convert"/>
+    </wsdl:message>
+    <wsdl:message name="convertResponse">
+        <wsdl:part name="parameters" element="ns:convertResponse"/>
+    </wsdl:message>
+    <wsdl:message name="updateBanqueRequest">
+        <wsdl:part name="parameters" element="ns:updateBanque"/>
+    </wsdl:message>
+    <wsdl:message name="testBanqueRequest">
+        <wsdl:part name="parameters" element="ns:testBanque"/>
+    </wsdl:message>
+    <wsdl:portType name="ConversionImplPortType">
+        <wsdl:operation name="listBanque">
+            <wsdl:input message="ns:listBanqueRequest" wsaw:Action="urn:listBanque"/>
+            <wsdl:output message="ns:listBanqueResponse" wsaw:Action="urn:listBanqueResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="listDevise">
+            <wsdl:input message="ns:listDeviseRequest" wsaw:Action="urn:listDevise"/>
+            <wsdl:output message="ns:listDeviseResponse" wsaw:Action="urn:listDeviseResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="createBanque">
+            <wsdl:input message="ns:createBanqueRequest" wsaw:Action="urn:createBanque"/>
+            <wsdl:output message="ns:createBanqueResponse" wsaw:Action="urn:createBanqueResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="convert">
+            <wsdl:input message="ns:convertRequest" wsaw:Action="urn:convert"/>
+            <wsdl:output message="ns:convertResponse" wsaw:Action="urn:convertResponse"/>
+        </wsdl:operation>
+        <wsdl:operation name="updateBanque">
+            <wsdl:input message="ns:updateBanqueRequest" wsaw:Action="urn:updateBanque"/>
+        </wsdl:operation>
+        <wsdl:operation name="testBanque">
+            <wsdl:input message="ns:testBanqueRequest" wsaw:Action="urn:testBanque"/>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="ConversionImplSoap11Binding" type="ns:ConversionImplPortType">
+        <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+        <wsdl:operation name="listBanque">
+            <soap:operation soapAction="urn:listBanque" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="listDevise">
+            <soap:operation soapAction="urn:listDevise" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="createBanque">
+            <soap:operation soapAction="urn:createBanque" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="convert">
+            <soap:operation soapAction="urn:convert" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="updateBanque">
+            <soap:operation soapAction="urn:updateBanque" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+        </wsdl:operation>
+        <wsdl:operation name="testBanque">
+            <soap:operation soapAction="urn:testBanque" style="document"/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ConversionImplSoap12Binding" type="ns:ConversionImplPortType">
+        <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+        <wsdl:operation name="listBanque">
+            <soap12:operation soapAction="urn:listBanque" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="listDevise">
+            <soap12:operation soapAction="urn:listDevise" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="createBanque">
+            <soap12:operation soapAction="urn:createBanque" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="convert">
+            <soap12:operation soapAction="urn:convert" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap12:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="updateBanque">
+            <soap12:operation soapAction="urn:updateBanque" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+        </wsdl:operation>
+        <wsdl:operation name="testBanque">
+            <soap12:operation soapAction="urn:testBanque" style="document"/>
+            <wsdl:input>
+                <soap12:body use="literal"/>
+            </wsdl:input>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:binding name="ConversionImplHttpBinding" type="ns:ConversionImplPortType">
+        <http:binding verb="POST"/>
+        <wsdl:operation name="listBanque">
+            <http:operation location="listBanque"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="listDevise">
+            <http:operation location="listDevise"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="createBanque">
+            <http:operation location="createBanque"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="convert">
+            <http:operation location="convert"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+            <wsdl:output>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:output>
+        </wsdl:operation>
+        <wsdl:operation name="updateBanque">
+            <http:operation location="updateBanque"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+        </wsdl:operation>
+        <wsdl:operation name="testBanque">
+            <http:operation location="testBanque"/>
+            <wsdl:input>
+                <mime:content type="application/xml" part="parameters"/>
+            </wsdl:input>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="ConversionImpl">
+        <wsdl:port name="ConversionImplHttpSoap11Endpoint" binding="ns:ConversionImplSoap11Binding">
+            <soap:address location="http://localhost:8080/ServerDevise/services/ConversionImpl.ConversionImplHttpSoap11Endpoint/"/>
+        </wsdl:port>
+        <wsdl:port name="ConversionImplHttpSoap12Endpoint" binding="ns:ConversionImplSoap12Binding">
+            <soap12:address location="http://localhost:8080/ServerDevise/services/ConversionImpl.ConversionImplHttpSoap12Endpoint/"/>
+        </wsdl:port>
+        <wsdl:port name="ConversionImplHttpEndpoint" binding="ns:ConversionImplHttpBinding">
+            <http:address location="http://localhost:8080/ServerDevise/services/ConversionImpl.ConversionImplHttpEndpoint/"/>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>

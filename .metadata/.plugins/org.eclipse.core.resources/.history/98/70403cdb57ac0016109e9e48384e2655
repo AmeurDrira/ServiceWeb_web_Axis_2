@@ -1,0 +1,11 @@
+package tn.iit.implmentation;
+
+public class Test {
+
+	public static void main(String[] args) {
+		ConversionImpl conversionImpl=new ConversionImpl();
+		conversionImpl.listDevise();
+
+	}
+
+}

@@ -1,0 +1,444 @@
+2016-11-01 10:48:20,147 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Money:Money:0.0.1-SNAPSHOT @ /Users/ameurdrira/WorkSpace_ServiceWeb/Money/pom.xml.
+2016-11-01 10:48:20,147 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Money:Money:0.0.1-SNAPSHOT @ /Users/ameurdrira/WorkSpace_ServiceWeb/Money/pom.xml.
+2016-11-01 10:48:20,160 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:20,163 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:20,256 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:21,574 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:48:21,575 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-01 10:48:21,578 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:48:21,579 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-01 10:48:22,702 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:22,708 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:48:22,709 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-01 10:48:22,711 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:48:22,711 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-01 10:48:23,070 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Money:Money:0.0.1-SNAPSHOT @ /Users/ameurdrira/WorkSpace_ServiceWeb/Money/pom.xml.
+2016-11-01 10:48:23,075 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:23,086 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:23,522 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:23,753 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:48:23,878 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:48:23,878 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-01 10:48:23,881 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:48:23,881 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-01 10:51:27,999 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-01 10:51:28,578 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:51:28,579 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-01 10:51:28,582 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-01 10:51:28,584 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:22:11,756 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-02 21:22:12,294 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:22:12,295 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:22:12,298 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:22:12,298 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:23:08,572 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:08,577 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:23:08,578 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:08,579 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:23:12,029 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:12,030 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:23:12,031 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:12,032 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:23:16,654 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:16,654 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:23:16,655 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:16,656 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:23:58,675 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:58,675 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:23:58,677 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:23:58,678 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:24:06,924 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:24:06,925 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:24:06,926 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:24:06,927 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:43:32,502 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:43:32,504 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:43:32,505 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:43:32,506 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:45:23,533 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:45:23,534 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:45:23,536 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:45:23,536 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:45:41,740 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:45:41,741 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:45:41,744 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:45:41,745 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:46:08,677 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:46:08,677 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:46:08,678 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:46:08,679 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:47:25,595 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Web_Service_4:Web_Service_4:0.0.1-SNAPSHOT @ /Users/ameurdrira/WorkSpace_ServiceWeb/Web_Service_4/pom.xml.
+2016-11-02 21:47:26,025 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:47:26,026 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Web_Service_4/src/main/resources
+2016-11-02 21:47:26,027 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:47:26,028 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Web_Service_4/src/test/resources
+2016-11-02 21:47:26,028 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Web_Service_4
+2016-11-02 21:47:26,029 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Web_Service_4
+2016-11-02 21:47:26,034 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2016-11-02 21:47:26,052 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:47:27,208 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:47:27,209 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Web_Service_4/src/main/resources
+2016-11-02 21:47:27,210 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:47:27,210 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Web_Service_4/src/test/resources
+2016-11-02 21:58:53,959 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:58:53,961 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:58:53,962 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:58:53,963 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:59:04,745 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:59:04,746 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:59:04,747 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:59:04,748 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:59:21,417 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:59:21,418 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:59:21,420 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:59:21,421 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 21:59:26,060 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:59:26,060 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 21:59:26,062 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 21:59:26,063 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:02:38,108 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:02:38,110 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:02:38,111 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:02:38,111 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:04:06,746 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:04:06,748 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:04:06,749 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:04:06,751 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:04:20,410 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:04:20,412 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:04:20,413 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:04:20,414 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:08:26,532 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:08:26,535 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:08:26,536 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:08:26,537 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:08:40,677 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:08:40,678 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:08:40,679 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:08:40,680 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:08:44,135 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:08:44,136 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:08:44,138 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:08:44,138 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:09:57,714 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:09:57,715 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:09:57,716 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:09:57,717 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:13:52,789 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:13:52,790 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:13:52,791 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:13:52,791 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:13:55,604 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:13:55,605 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:13:55,606 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:13:55,607 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:14:21,820 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:14:21,821 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:14:21,822 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:14:21,823 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:14:24,448 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:14:24,449 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:14:24,450 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:14:24,450 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:15:18,633 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:15:18,633 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:15:18,634 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:15:18,634 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:16:40,064 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:16:40,065 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:16:40,066 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:16:40,067 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:19:11,839 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:19:11,840 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:19:11,843 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:19:11,844 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:19:35,297 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:19:35,298 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:19:35,299 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:19:35,300 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:19:56,915 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:19:56,915 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:19:56,917 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:19:56,917 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:20:28,012 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:20:28,013 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:20:28,015 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:20:28,015 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:20:37,345 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:20:37,345 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:20:37,346 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:20:37,346 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:21:23,135 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:21:23,136 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:21:23,137 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:21:23,138 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:21:33,938 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:21:33,938 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:21:33,940 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:21:33,940 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:22:11,528 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:22:11,528 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:22:11,530 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:22:11,530 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:23:41,156 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:23:41,157 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:23:41,158 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:23:41,158 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:24:21,791 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:24:21,792 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:24:21,793 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:24:21,794 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:25:20,920 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:25:20,921 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:25:20,922 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:25:20,923 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:25:53,431 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:25:53,432 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:25:53,433 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:25:53,433 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:26:03,412 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:26:03,412 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:26:03,413 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:26:03,414 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:26:34,073 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:26:34,073 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:26:34,074 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:26:34,075 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:27:16,039 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:16,039 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:27:16,041 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:16,041 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:27:29,700 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:29,702 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:27:29,704 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:29,705 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:27:44,599 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:44,600 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:27:44,601 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:44,601 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:27:54,607 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:54,608 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:27:54,609 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:54,610 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:27:58,673 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:58,673 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:27:58,674 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:27:58,674 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:29:58,454 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:29:58,464 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:29:58,466 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:29:58,466 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:30:39,846 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:30:39,847 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:30:39,848 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:30:39,848 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:30:50,646 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:30:50,647 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:30:50,648 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:30:50,649 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:32:54,963 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:32:54,964 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:32:54,965 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:32:54,965 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:33:41,335 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:33:41,336 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:33:41,337 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:33:41,337 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:34:08,800 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:34:08,800 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:34:08,801 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:34:08,801 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:36:58,779 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:36:58,780 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:36:58,781 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:36:58,782 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:37:12,057 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:37:12,058 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:37:12,059 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:37:12,060 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:48:16,140 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:48:16,142 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:48:16,143 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:48:16,144 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:48:21,851 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:48:21,855 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:48:21,856 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:48:21,857 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:48:31,115 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:48:31,116 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:48:31,118 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:48:31,118 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:55:39,108 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:55:39,109 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:55:39,110 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:55:39,110 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:55:55,092 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @5638780ms
+2016-11-02 22:55:55,255 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2016-11-02 22:55:55,325 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7457b0b{/wse,null,AVAILABLE}
+2016-11-02 22:55:55,341 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7728f075{HTTP/1.1,[http/1.1]}{0.0.0.0:51471}
+2016-11-02 22:55:55,342 [main] INFO  org.eclipse.jetty.server.Server - Started @5639030ms
+2016-11-02 22:57:47,090 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:57:47,092 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:57:47,093 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:57:47,094 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 22:57:50,424 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:57:50,424 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 22:57:50,426 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 22:57:50,426 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:07:21,311 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:07:21,313 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:07:21,314 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:07:21,315 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:07:23,351 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:07:23,351 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:07:23,352 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:07:23,353 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:07:54,848 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:07:54,849 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:07:54,850 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:07:54,850 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:08:10,729 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:08:10,730 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:08:10,731 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:08:10,731 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:08:37,523 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:08:37,524 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:08:37,525 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:08:37,526 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:09:49,876 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Money
+2016-11-02 23:09:50,017 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:09:50,017 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:09:50,019 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:09:50,021 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:09:50,021 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Money
+2016-11-02 23:09:50,021 [Worker-80] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Money
+2016-11-02 23:09:50,061 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:10:32,172 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:10:32,173 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:10:32,174 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:10:32,174 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:16:02,121 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-02 23:16:02,766 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:16:02,766 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:16:02,773 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:16:02,773 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:16:54,766 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:16:54,767 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:16:54,769 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:16:54,769 [main] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:17:01,041 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:17:01,041 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:17:01,043 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:17:01,043 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:22:48,287 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-02 23:22:49,123 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:22:49,123 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:22:49,126 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:22:49,127 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:23:59,495 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Money
+2016-11-02 23:23:59,695 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:23:59,696 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:23:59,698 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:23:59,698 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:23:59,699 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Money
+2016-11-02 23:23:59,700 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Money
+2016-11-02 23:23:59,709 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2016-11-02 23:23:59,738 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:25:30,117 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact jdom:jdom:jar:1.1 has been relocated to org.jdom:jdom:jar:1.1
+2016-11-02 23:25:30,758 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:25:30,758 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:25:30,761 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:25:30,762 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:29:48,845 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:29:48,846 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/main/resources
+2016-11-02 23:29:48,848 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-02 23:29:48,849 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ameurdrira/WorkSpace_ServiceWeb/Money/src/test/resources
+2016-11-02 23:43:37,653 [Worker-18] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Test references non-existing project Money.
+org.eclipse.core.runtime.CoreException: Launch configuration Test references non-existing project Money.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-11-02 23:43:37,671 [Worker-18] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Test references non-existing project Money.
+org.eclipse.core.runtime.CoreException: Launch configuration Test references non-existing project Money.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-11-02 23:43:37,674 [Worker-18] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration Test references non-existing project Money.
+org.eclipse.core.runtime.CoreException: Launch configuration Test references non-existing project Money.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.100.v20160505-0636.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2016-11-02 23:46:16,903 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @1264096ms
+2016-11-02 23:46:17,069 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2016-11-02 23:46:17,141 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@6d2bda08{/wse,null,AVAILABLE}
+2016-11-02 23:46:17,154 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@66510e19{HTTP/1.1,[http/1.1]}{0.0.0.0:49287}
+2016-11-02 23:46:17,155 [main] INFO  org.eclipse.jetty.server.Server - Started @1264348ms
+2016-11-02 23:57:23,057 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@66510e19{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2016-11-02 23:57:23,067 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@6d2bda08{/wse,null,UNAVAILABLE}
+2016-11-04 09:21:37,705 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @2479339ms
+2016-11-04 09:21:37,908 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2016-11-04 09:21:37,966 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2ec392b4{/wse,null,AVAILABLE}
+2016-11-04 09:21:37,977 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@34c62a90{HTTP/1.1,[http/1.1]}{0.0.0.0:49589}
+2016-11-04 09:21:37,978 [main] INFO  org.eclipse.jetty.server.Server - Started @2479616ms
+2016-11-04 11:15:31,284 [Framework stop] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@34c62a90{HTTP/1.1,[http/1.1]}{0.0.0.0:0}
+2016-11-04 11:15:31,310 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2ec392b4{/wse,null,UNAVAILABLE}

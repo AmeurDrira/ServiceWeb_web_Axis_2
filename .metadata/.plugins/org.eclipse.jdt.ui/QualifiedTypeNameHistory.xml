@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="tn.iit.implementation.ReadMoney"/>
+<fullyQualifiedTypeName name="tn.iit.ConversionInterface"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Element"/>
+<fullyQualifiedTypeName name="org.w3c.dom.Document"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.rmi.RemoteException"/>
+<fullyQualifiedTypeName name="tn.iit.implmentation.ConversionImplStub.Convert"/>
+<fullyQualifiedTypeName name="tn.iit.implmentation.ConversionImplStub.ConvertResponse"/>
+<fullyQualifiedTypeName name="tn.iit.implmentation.ConversionImpl"/>
+<fullyQualifiedTypeName name="tn.iit.implmentation.ConversionImplStub"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="tn.iit.interfaces.Conversion"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.jws.soap.SOAPBinding"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="iit.tn.devise.ConverstionInterface"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="tn.iit.implmentation.ConversionImplStub.ListDeviseResponse"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.lang.Float"/>
+<fullyQualifiedTypeName name="tn.iit.implmentation.ConversionImplStub.ListDevise"/>
+</qualifiedTypeNameHistroy>
