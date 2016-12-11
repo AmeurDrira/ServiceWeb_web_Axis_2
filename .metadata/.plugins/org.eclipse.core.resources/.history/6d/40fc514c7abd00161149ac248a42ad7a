@@ -1,0 +1,18 @@
+package tn.iit.test;
+
+import iit.tn.controller.ControllerApplication;
+import iit.tn.model.Application;
+import tn.iit.rest.ReciveData;
+
+public class TestRest {
+
+	public static void main(String[] args) {
+		ControllerApplication controllerApplication=new ControllerApplication();
+		Application application;
+		String applicationString = ReciveData.getData();
+		application= controllerApplication.hexToObject(applicationString);
+		System.out.println(ReciveData.getData());
+
+	}
+
+}

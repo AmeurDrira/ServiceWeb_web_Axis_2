@@ -1,0 +1,29 @@
+package iit.tn.controller;
+
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+
+import iit.tn.model.Application;
+
+public class ControllerApplication {
+	private Application applicationObj;
+
+	private Gson gson;
+
+	public Application convertJsonObject(String data) {
+		applicationObj = new Application();
+		gson = new Gson();
+		applicationObj = gson.fromJson(data, Application.class);
+		return applicationObj;
+
+	}
+
+	public Application convertJsonListObject(String data) {
+		JsonArray jsonarray = new JsonArray();
+		for (int i = 0; i < jsonarray.length(); i++) {
+			JSONObject jsonobject = jsonarray.getJSONObject(i);
+			String name = jsonobject.getString("name");
+			String url = jsonobject.getString("url");
+		}
+	}
+}

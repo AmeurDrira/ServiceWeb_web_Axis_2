@@ -1,0 +1,20 @@
+package iit.tn.controller;
+
+import com.google.gson.Gson;
+
+import iit.tn.model.Application;
+
+public class ControllerApplication {
+	private Application applicationObj;
+
+	private Gson gson;
+
+	public Application hexToObject(String data) {
+		applicationObj = new Application();
+		gson = new Gson();
+		applicationObj = gson.fromJson(data, Application.class);
+		return applicationObj;
+
+	}
+
+}

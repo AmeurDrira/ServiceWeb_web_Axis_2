@@ -1,0 +1,14 @@
+package tn.iit.test;
+
+import tn.iit.rest.ReciveData;
+
+public class TestRest {
+
+	public static void main(String[] args) {
+		String getwayString = ReciveData.getData();
+		Application = controllerDevice.hexToObject(deviceString);
+		System.out.println(ReciveData.getData());
+
+	}
+
+}

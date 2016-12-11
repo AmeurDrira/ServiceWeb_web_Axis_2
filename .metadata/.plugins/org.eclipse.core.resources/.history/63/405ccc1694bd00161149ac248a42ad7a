@@ -1,0 +1,16 @@
+package tn.iit.test;
+
+import tn.iit.controller.ControllerApplication;
+import tn.iit.rest.ReciveData;
+
+public class TestRest {
+
+	public static void main(String[] args) {
+		ControllerApplication controllerApplication = new ControllerApplication();
+		String userString = ReciveData.getUsers();
+		System.out.println(userString);
+		controllerApplication.convertJsonListUser(userString);
+
+	}
+
+}

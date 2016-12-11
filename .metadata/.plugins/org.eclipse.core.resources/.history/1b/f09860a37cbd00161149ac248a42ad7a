@@ -1,0 +1,39 @@
+package iit.tn.controller;
+
+import java.lang.reflect.Type;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
+import org.apache.jasper.tagplugins.jstl.core.ForEach;
+
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
+
+import iit.tn.model.Application;
+
+public class ControllerApplication {
+	private Application applicationObj;
+	private ArrayList<Application> listeApplications;
+
+	private Gson gson;
+
+	public Application convertJsonObject(String data) {
+		applicationObj = new Application();
+		gson = new Gson();
+		applicationObj = gson.fromJson(data, Application.class);
+		return applicationObj;
+
+	}
+
+	public void  convertJsonListObject(String data) {
+		Type collectionType = new TypeToken<Collection<Application>>(){}.getType();
+		Collection<Application> enums = gson.fromJson(data, collectionType);
+		for (Application application : enums) {
+			System.out.println(application.toString());
+			
+		}
+
+		
+	}
+}

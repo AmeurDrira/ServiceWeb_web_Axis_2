@@ -1,0 +1,8 @@
+package tn.iit.rest;
+
+import javax.annotation.ManagedBean;
+
+@ManagedBean
+public class Test {
+
+}

@@ -1,0 +1,12 @@
+package tn.iit.test;
+
+import tn.iit.rest.ReciveData;
+
+public class TestRest {
+
+	public static void main(String[] args) {
+		System.out.println(ReciveData.getData());
+
+	}
+
+}

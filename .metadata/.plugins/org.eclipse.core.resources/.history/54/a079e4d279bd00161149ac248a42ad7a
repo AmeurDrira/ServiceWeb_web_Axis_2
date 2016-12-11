@@ -1,0 +1,29 @@
+package iit.tn.controller;
+
+import java.util.List;
+
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+
+import iit.tn.model.Application;
+
+public class ControllerApplication {
+	private Application applicationObj;
+	private Application[] listeApplications;
+
+	private Gson gson;
+
+	public Application convertJsonObject(String data) {
+		applicationObj = new Application();
+		gson = new Gson();
+		applicationObj = gson.fromJson(data, Application.class);
+		return applicationObj;
+
+	}
+
+	public List<Application> convertJsonListObject(String data) {
+		JsonArray jsonarray = new JsonArray();
+		gson = new Gson();
+		listeApplications=gson.fromJson(data, Application[].class);
+	}
+}

@@ -169,3 +169,4 @@
 127.0.0.1 - - [17/Nov/2016:02:44:25 +0100] "GET /ServerDevise/services/ConversionImpl?wsdl HTTP/1.1" 200 14187
 127.0.0.1 - - [17/Nov/2016:02:44:25 +0100] "GET /ServerDevise/services/ConversionImpl?wsdl HTTP/1.1" 200 14187
 127.0.0.1 - - [17/Nov/2016:02:44:27 +0100] "GET /ServerDevise/services/ConversionImpl?wsdl HTTP/1.1" 200 14187
+127.0.0.1 - - [17/Nov/2016:11:56:49 +0100] "GET / HTTP/1.1" 404 1005
