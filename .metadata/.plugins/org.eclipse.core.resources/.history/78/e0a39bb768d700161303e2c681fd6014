@@ -1,0 +1,77 @@
+package tn.iit.implementation;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.DELETE;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+import com.google.gson.Gson;
+
+import tn.iit.interfaces.EmployeeService;
+import tn.iit.model.Employee;
+import tn.iit.service.GenericResponse;
+
+@Path("/employee")
+@Consumes(MediaType.APPLICATION_JSON)
+@Produces(MediaType.APPLICATION_JSON)
+public class EmployeeServiceImpl implements EmployeeService {
+
+	private static Map<Integer, Employee> emps = new HashMap<Integer, Employee>();
+
+	@Override
+	@POST
+	@Path("/add")
+	public Response addEmploye(String e) {
+		GenericResponse response = new GenericResponse();
+		Employee employee=new Employee();
+		Gson gson=new Gson();
+		employee=gson.fromJson(e, Employee.class);
+		System.out.println("*****POST***");
+		emps.put(employee.getId(),employee);
+		response.setStatus(true);
+		response.setMessage("Employee created successfully");
+		return Response.ok(response).build();
+	}
+
+	@Override
+	@DELETE
+	@Path("/{id}/delete")
+	public Response deleteEmployee(@PathParam("id") int id) {
+		return null;
+
+	}
+
+	@Override
+	@GET
+	@Path("/{id}/get")
+	public Employee getEmployee(@PathParam("id") int id) {
+		return null;
+
+	}
+
+	@GET
+	@Path("/{id}/getDummy")
+	public String getDummyEmployee(@PathParam("id") int id) {
+		Employee e = new Employee();
+		Gson gson=new Gson();
+		e.setSalary(8976.55);
+		e.setName("Dummy");
+		e.setId(id);
+		return gson.toJson(e);
+	}
+
+	@Override
+	@GET
+	@Path("/getAll")
+	public Employee[] getAllEmployees() {
+		return null;
+	}
+}

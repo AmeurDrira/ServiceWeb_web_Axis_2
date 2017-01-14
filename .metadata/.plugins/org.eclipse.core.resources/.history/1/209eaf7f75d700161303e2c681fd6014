@@ -1,0 +1,93 @@
+package tn.iit.implementation;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.DELETE;
+import javax.ws.rs.GET;
+import javax.ws.rs.POST;
+import javax.ws.rs.Path;
+import javax.ws.rs.PathParam;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+import javax.ws.rs.core.Response;
+
+import com.google.gson.Gson;
+
+import tn.iit.interfaces.EmployeeService;
+import tn.iit.model.Employee;
+import tn.iit.service.GenericResponse;
+
+@Path("/employee")
+@Consumes(MediaType.APPLICATION_JSON)
+@Produces(MediaType.APPLICATION_JSON)
+public class EmployeeServiceImpl implements EmployeeService {
+
+	private static Map<Integer, Employee> emps = new HashMap<Integer, Employee>();
+
+	private static int i = 0;
+
+	@POST
+	@Path("/add")
+	public Response addEmploye(String e) {
+		GenericResponse response = new GenericResponse();
+		Employee employee = new Employee();
+		Gson gson = new Gson();
+		employee = gson.fromJson(e, Employee.class);
+		i++;
+		if (emps.get(employee.getId()) != null) {
+			response.setStatus(false);
+			response.setMessage("Employee Already Exists");
+			response.setErrorCode("EC-01");
+			return Response.status(422).entity(response).type(MediaType.APPLICATION_JSON).build();
+		}
+		emps.put(i, employee);
+		response.setStatus(true);
+		response.setMessage("Employee created successfully");
+		return Response.ok(response).build();
+	}
+
+	@DELETE
+	@Path("/{id}/delete")
+	public Response deleteEmployee(@PathParam("id") int id) {
+		Employee employee = new Employee();
+		
+		GenericResponse response = new GenericResponse();
+		if (emps.get(employee.getId()) != null) {
+			response.setStatus(false);
+			response.setMessage("Employee Already Exists");
+			response.setErrorCode("EC-01");
+			return Response.status(422).entity(response).type(MediaType.APPLICATION_JSON).build();
+		}
+		employee=emps.get(id);
+		emps.remove(employee);
+		response.setStatus(true);
+		response.setMessage("Employee created successfully");
+		return Response.ok(response).build();
+	}
+
+	@GET
+	@Path("/{id}/get")
+	public Employee getEmployee(@PathParam("id") int id) {
+		return emps.get(id);
+
+	}
+
+	@GET
+	@Path("/{id}/getDummy")
+	public Employee getDummyEmployee(@PathParam("id") int id) {
+		Employee e = new Employee();
+		e.setSalary(8976.55);
+		e.setName("Dummy");
+		e.setId(id);
+		return e;
+	}
+
+	@GET
+	@Path("/getAll")
+	public Map<Integer, Employee> getAllEmployees() {
+		return emps;
+	}
+
+}

@@ -13,47 +13,61 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
+import com.google.gson.Gson;
+
 import tn.iit.interfaces.EmployeeService;
 import tn.iit.model.Employee;
 import tn.iit.service.GenericResponse;
 
 @Path("/employee")
-@Consumes(MediaType.APPLICATION_XML)
-@Produces(MediaType.APPLICATION_XML)
+@Consumes(MediaType.APPLICATION_JSON)
+@Produces(MediaType.APPLICATION_JSON)
 public class EmployeeServiceImpl implements EmployeeService {
 
 	private static Map<Integer, Employee> emps = new HashMap<Integer, Employee>();
 
-	@Override
+	private static int i = 0;
+
 	@POST
 	@Path("/add")
-	public Response addEmployee(Employee e) {
+	public Response addEmploye(String e) {
 		GenericResponse response = new GenericResponse();
-		if (emps.get(e.getId()) != null) {
+		Employee employee = new Employee();
+		Gson gson = new Gson();
+		employee = gson.fromJson(e, Employee.class);
+		i++;
+		if (emps.get(employee.getId()) != null) {
 			response.setStatus(false);
 			response.setMessage("Employee Already Exists");
 			response.setErrorCode("EC-01");
-			return Response.status(422).entity(response).build();
+			return Response.status(422).entity(response).type(MediaType.APPLICATION_JSON).build();
 		}
-		emps.put(e.getId(), e);
+		emps.put(i, employee);
 		response.setStatus(true);
 		response.setMessage("Employee created successfully");
 		return Response.ok(response).build();
 	}
 
-	@Override
 	@DELETE
-	@Path("/{id}/delete")
+	@Path("/delete/{id}")
 	public Response deleteEmployee(@PathParam("id") int id) {
-		return null;
 
+		GenericResponse response = new GenericResponse();
+		if (emps.get(id) != null) {
+
+			System.out.println(emps.get(id));
+			emps.remove(id);
+			System.out.println("*****emps.remove(employee);********");
+			response.setStatus(true);
+			response.setMessage("Employee created successfully");
+		}
+		return Response.ok(response).build();
 	}
 
-	@Override
 	@GET
 	@Path("/{id}/get")
 	public Employee getEmployee(@PathParam("id") int id) {
-		return null;
+		return emps.get(id);
 
 	}
 
@@ -67,10 +81,10 @@ public class EmployeeServiceImpl implements EmployeeService {
 		return e;
 	}
 
-	@Override
 	@GET
 	@Path("/getAll")
-	public Employee[] getAllEmployees() {
-		return null;
+	public Map<Integer, Employee> getAllEmployees() {
+		return emps;
 	}
+
 }
